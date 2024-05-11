@@ -17,7 +17,7 @@ Before running anything, be sure to adjust the following variables as needed. Al
 The paper will appear at L@S 2024. If you found this script useful please cite our work as:
 
 ```bibtex
-@inproceedings{jiang2024sasgpt4,
+@inproceedings{jiang2024scoring,
     author = {Jiang, Lan and Bosch, Nigel},
     title = {Short answer scoring with GPT-4},
     booktitle = {In Proceedings of the Eleventh ACM Conference on Learning @ Scale (L@S ’24)},
