@@ -9,7 +9,7 @@ Before running anything, be sure to adjust the following variables as needed. Al
 |     Variable              |             Description                           | Options                                               |
 |---------------------------| ------------------------------------------------- |------------------------------------------------------ |
 | `question`                | Name of the dataset                               | `Q1`                                                  |
-| `model`                   | GPT model that will be called                     | [Models available by OpenAI API]([https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4](https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4))  |
+| `model`                   | GPT model that will be called                     | [Models available by OpenAI API](https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4)  |
 | `exp_name`                | Experiment to be conducted (corresponds to the experiment names in the paper)      | `base(score_rationale_onequery)`, `add_possible_answers`, `add_scored_examples`, `add_both`, `score_only`, `rationale_score_twoqueries`, `rationale_score_onequery`                  |
 
 ## Citation
