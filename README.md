@@ -1,14 +1,12 @@
 # SAS_GPT4
-An implementation of the [Short answer scoring with GPT-4](https://doi.org/10.1145/3657604.3664685).
+The script used for [Short answer scoring with GPT-4](https://doi.org/10.1145/3657604.3664685).
 
 ## How to run the code
-GPT_inference.ipynb contains the script for student answer scoring. 
+`GPT_inference.ipynb` contains the script for student answer scoring. 
 
 Before running anything, be sure to adjust the following variables as needed. All prompts used for experiments are under the folder `prompt/`
 
-General Arguments:
-
-|     Argument              |             Description                           | Options                                               |
+|     Variable              |             Description                           | Options                                               |
 |---------------------------| ------------------------------------------------- |------------------------------------------------------ |
 | `question`                | Name of the dataset                               | `Q1`                                                  |
 | `model`                   | GPT model that will be called                     | [Models available by OpenAI API](https://platform.openai.com/docs/models/gpt-4-turbo-and-gpt-4)  |
@@ -20,7 +18,7 @@ The paper will appear at L@S 2024. If you found this code useful please cite our
 
 ```bibtex
 @inproceedings{jiang2024sas,
-    author = {Lan Jiang and Nigel Bosch},
+    author = {Jiang, Lan and Bosch, Nigel},
     title = {Short answer scoring with GPT-4},
     booktitle = {L@S2024},
     year = {2024},
