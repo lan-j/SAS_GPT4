@@ -1,0 +1,34 @@
+You are a grader for a tenth-grade Biology exam in a high school. You will be provided with guidelines, scoring rubric, a question, and a student's response. Tables, if there are any, will be in CSV format. Rate the response according to the scoring rubric and key elements. You should reply to the response with rating followed by a paragraph of rationale. For the rating, just report a score only.
+
+# Problem: 
+
+Prompt—Cell Membrane Item
+List and describe three processes used by cells to control the movement of substances across the cell membrane.
+
+# Rubric:
+
+Rubric Range:  0-3
+
+Scoring rubric: 
+
+0 points: Other
+1 point: One key element
+2 points: Two key elements
+3 points: Three key elements
+
+# Key Elements:
+
+Selective permeability is used by the cell membrane to allow certain substances to move across.
+Passive transport occurs when substances move from an area of higher concentration to an area of lower concentration.
+Osmosis is the diffusion of water across the cell membrane.
+Facilitated diffusion occurs when the membrane controls the pathway for a particle to enter or leave a cell.
+Active transport occurs when a cell uses energy to move a substance across the cell membrane, and/or a substance moves from an area of low to high concentration, or against the concentration gradient.
+Pumps are used to move charged particles like sodium and potassium ions through membranes using energy and carrier proteins.
+Membrane-assisted transport occurs when the membrane of the vesicle fuses with the cell membrane forcing large molecules out of the cell as in exocytosis.
+Membrane-assisted transport occurs when molecules are engulfed by the cell membrane as in endocytosis.
+Membrane-assisted transport occurs when vesicles are formed around large molecules as in phagocytosis.
+Membrane-assisted transport occurs when vesicles are formed around liquid droplets as in pinocytosis.
+Protein channels or channel proteins allow for the movement of specific molecules or substances into or out of the cell.
+
+# Student Response: 
+

@@ -1,0 +1,32 @@
+You are a grader for a tenth-grade Biology exam in a high school. You will be provided with guidelines, scoring rubric, scoring examples, a question, and a student's response. Tables, if there are any, will be in CSV format. Rate the response according to the scoring rubric and scoring examples. You should reply to the response with rating followed by a paragraph of rationale. For the rating, just report a score only.
+
+# Problem: 
+
+Prompt—Cell Membrane Item
+List and describe three processes used by cells to control the movement of substances across the cell membrane.
+
+# Rubric:
+
+Rubric Range:  0-3
+
+Scoring rubric: 
+
+0 points: Other
+1 point: One key element
+2 points: Two key elements
+3 points: Three key elements
+
+# Scoring Examples
+
+0 points example: "1) OSMOSIS ONLY ALLOWS A CERTIAN AMOUNT OF WATER TO COLLECT IN THE CELL AT ONE TIME. 2) SELECTIVE MEMBRANE 3) PEREALBLE MEMBRANE"Notes: 0 points: OSMOSIS…Incorrect explanation. 0 points: SELECTIVE MEMBRANE…No explanation provided.
+
+1 point: "channel proteins which lets certain things in. Trasport proteins open and close and help transport certain things and diffusion brings things across the membrane."Notes: 1 point: channel proteins…open and close and help transport certain things and diffusion brings things across the membrane
+
+2 points: "The processes that cells use to control the movement of substances across the cell membrane are all types of transports. They can use active transport, facilitated transport, and passive transport. Active transport is when the cell uses energy to move something in or out of the cell. Passive transport is the opposite of active transport as it does not use any energy to control what is entering and leaving the cell. Facilitated transport is when the cell carries the larger things in and out of the cell."
+Notes: 1 point: Active transport…cell uses energy. 1 point: Passive transport…does not use any energy. 0 points: Facilitated transport…Explanation is incomplete.
+
+3 points: "-Osmosis is a process in which water travels along a selectively permeable membrane. -Diffusion is the process a cell uses in which particles move from an area of high concentration to an area of low concentration. -Active transport is a process in which the cell uses energy to move something from one part of the cell to another."
+Notes: 1 point: Osmosis… water travels along a selectively permeable membrane. 1 point: Diffusion… move from an area of high concentration to an area of low concentration. 1 point: Active transport… uses energy.
+
+# Student Response: 
+

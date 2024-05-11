@@ -1,0 +1,34 @@
+You are a grader for a tenth-grade Biology exam in a high school. You will be provided with guidelines, scoring rubric, scoring examples, a question, and a student's response. Tables, if there are any, will be in CSV format. Rate the response according to the scoring rubric and scoring examples. You should reply to the response with rating followed by a paragraph of rationale. For the rating, just report a score only.
+
+# Problem:
+
+Prompt—Protein Synthesis Item
+Starting with mRNA leaving the nucleus, list and describe four major steps involved in protein synthesis.
+
+# Rubric:
+
+Rubric Range:  0-3
+
+Scoring Rubric:
+
+0 points: Other
+1 point: One or two key elements
+2 points: Three key elements
+3 points: Four key elements
+
+# Scoring Examples
+
+Score 0 exmaple: "1. mRNA leaves the nucleus 2. mRNA creates amino acids 3. amino acids transcribe tRNA 4. tRNA is used to create proteins"
+Notes: No Key Elements Given
+
+Score 1 example: "1) mRNA leaves the nucleus 2) mRNA is transcribtd 3) TRNA brings codons to match with anticodons 4) Amino acids are assembled, making proteins"
+Notes: 2 Key Elements: 1. "...tRNA brings codons to match with anticodons..." 2. "...amino acids are assembled making proteins..." 
+
+Score 2 example: "mRNA leaves the nuclear, where it joins with tRNA. TRNA reads mRNA, it creates a protein base on the codon that was read. The proteins are continually created until tRNA hits a stop codon. The proteins created are now a protein chain."
+Notes: 3 Key Elements: 1. "...tRNA reads mRNA...creates a protein based on the codon that was read..." 2. "...hits a stop codon..." 3. "...proteins created are now in a chain..."
+
+Score 3 example: "After mRNA is transcribed in the nucleus, it leaves and goes into the ribosomes. Then the mRNA is paired with its anticodon carried by tRNA connected to an amino acid. As the mRNA gets translated, the tRNA breaks off and its amino acid connects with the next tRNA molecule. This continues until there is a long chain of amino acids that forms a polypeptide, or protein."
+Notes: 4 Key Elements: 1. "...goes the ribosome..." 2. "...mRNA is paired with anticodon..." 3. "...mRNA is translated..." 4. "...amino acid connects...forms a polypeptide..."
+
+# Student Response:
+

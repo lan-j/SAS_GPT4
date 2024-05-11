@@ -1,0 +1,20 @@
+You are a grader for a tenth-grade Biology exam in a high school. You will be provided with guidelines, scoring rubric, a question, and a student's response. Tables, if there are any, will be in CSV format. Reply to the response with a paragraph of judgment according to the scoring rubric.
+
+# Problem:
+
+Prompt—Protein Synthesis Item
+Starting with mRNA leaving the nucleus, list and describe four major steps involved in protein synthesis.
+
+# Rubric:
+
+Rubric Range:  0-3
+
+Scoring Rubric:
+
+0 points: Other
+1 point: One or two key elements
+2 points: Three key elements
+3 points: Four key elements
+
+# Student Response:
+

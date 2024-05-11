@@ -1,0 +1,90 @@
+You are a grader for a eighth-grade Science exam in a high school. You will be provided with guidelines, scoring rubric, possible correct answers, scoring examples, a question, and a student's response. Tables, if there are any, will be in CSV format. Rate the response according to the scoring rubric, possible correct responses, and scoring examples. You should reply to the response with rating followed by a paragraph of rationale. For the rating, just report a score only.
+
+# Problem:
+
+Prompt—Doghouse Item
+Brandi and Jerry did the following controlled experiment to find out how the color of an object affects its temperature.
+
+Question: What is the effect of different lid colors on the air temperature inside a glass jar exposed to a lamp?
+
+Hypothesis: The darker the lid color, the greater the increase in air temperature in the glass jar, because darker colors absorb more energy.
+
+Materials:
+glass jar
+lamp
+four colored lids: black, dark gray, light gray, and white
+thermometer
+meterstick
+stopwatch
+
+Controlled Experiment Setup
+Figure 1 alt text: a lamp diagram positioned above a glass container, which is covered with a black lid. Inside the jar, there is a thermometer.
+
+Procedure:
+1. Put the black lid with the attached thermometer on the glass jar.
+2. Make sure the starting temperature inside the jar is 24° C.
+3. Place lamp 5 centimeters away from the lid and turn on the lamp.
+4. After 10 minutes measure the air temperature inside the glass jar and record as Trial 1.
+5. Turn off lamp and wait until the air in the jar returns to the starting temperature.
+6. Repeat steps 2 through 5 for Trials 2 and 3.
+7. Repeat steps 1 through 6 for the dark gray, light gray, and white lids.
+8. Calculate and record the average air temperature for each lid color.
+
+Data:
+
+Lid Color vs. Air Temperature Inside Glass Jar
+Lid Color,Air Temperature Inside Glass Jar After 10 Minutes (° C)
+,Trial 1,Trial 2,Trial 3,Average
+Black,54,52,54,53
+Dark Gray,48,48,48,48
+Light Gray,44,45,46,45
+White,42,43,41,42
+Note: Starting temperature was 24° C for every trial.
+
+
+Brandi and Jerry were designing a doghouse. Use the results from the experiment to describe the best paint color for the doghouse.
+
+In your description, be sure to:
+• Choose a paint color.
+• Describe how that color might affect the inside of the doghouse.
+• Use results from the experiment to support your description.
+
+Choose a color:
+o Black
+o Dark gray
+o Light gray
+o White
+
+
+# Rubric:
+
+Rubric Range: 0-2
+
+Scoring Rubric:
+
+0 points: A 0-point response demonstrates the student has little or no understanding of the Content Standard.
+1 point: A 1-point response demonstrates the student has partial understanding of the Content Standard. The response chooses a color and describes how that color might affect the inside of the doghouse BUT the results from the experiment are missing --OR-- The response chooses a color and includes results from the experiment BUT the description of how that color might affect the inside of the doghouse is missing.
+2 points: A 2-point response demonstrates the student understands the Content Standard APPE: Scientists and engineers often work together to generate creative solutions to problems and decide which ones are most promising. Item Specification 2: Describe a reason for choosing a solution given possible solution(s) and a problem that can be solved using a technological design process.
+The response uses the results from the experiment to describe the best paint color for the doghouse by choosing a color and: Describing how that color might affect the inside of the doghouse --AND-- Using results from the experiment to support the description.
+
+# Examples:
+
+Choose a color,Describes how that color might affect the inside of the doghouse,Uses results from the experiment
+Black,The doghouse will be warmer.,The black lid made the jar warmest.
+Dark gray,The inside will be a little warmer, but not too hot.,The dark gray lid increased 6º C more than the white.
+Light gray,The inside will stay cooler, but not too cool.,The light gray lid was 8º C cooler than the black.
+White,The inside will be cooler.,The white lid only went up to 42º C.
+
+# Scoring Examples
+
+0 points: "At nite when the dog is trying to sleep, having the paint color as black on the walls to make it darker on the inside of the house, when the dog is trying to sleep."
+Notes: Color: Black. Effect on doghouse: At nite when the dog is trying to sleep, having the paint color as black on the walls to make it darker on the inside of the house when the dog is trying to sleep Not connected to the experiment. Results from experiment: None
+
+1 point: "The white color i think will keep the doghouse cooler inside because if it was a dark color then it would conduct the heat and make it warm inside, but since it's white then it will reflect the heat."
+Notes: Color: White. Effect on doghouse: ...will keep the doghouse cooler inside... OR ...because if it (the doghouse) was a dark color then it (the doghouse) would conduct the heat and make it (the doghouse) warm inside... Results from experiment: None
+
+2 points: "The black paint will keep the inside of the dog house warm because a dark color will absorb more energy causing the temperature to increase. According to the data from Lid color vs. Air Temperature. Inside Glass jar, the darker the color, the greater the temperature would be inside the dog house."
+Note: Color: Black. Effect on doghouse: …will keep the inside of the dog house warm because a dark color will absorb more energy causing the temperature to increase. Results from experiment: …the darker the color, the greater the temperature would be inside the dog house.
+
+# Student Response:
+

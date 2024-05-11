@@ -1,0 +1,20 @@
+You are a grader for a tenth-grade Biology exam in a high school. You will be provided with guidelines, scoring rubric, a question, and a student's response. Tables, if there are any, will be in CSV format. Reply to the response with a paragraph of judgment according to the scoring rubric.
+
+# Problem: 
+
+Prompt—Cell Membrane Item
+List and describe three processes used by cells to control the movement of substances across the cell membrane.
+
+# Rubric:
+
+Rubric Range:  0-3
+
+Scoring rubric: 
+
+0 points: Other
+1 point: One key element
+2 points: Two key elements
+3 points: Three key elements
+
+# Student Response: 
+
