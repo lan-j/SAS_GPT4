@@ -4,7 +4,7 @@ The script used for [Short answer scoring with GPT-4](https://doi.org/10.1145/36
 ## How to run the code
 `GPT_inference.ipynb` contains the script for student answer scoring. 
 
-Before running anything, be sure to adjust the following variables as needed. All prompts used for experiments are under the folder `prompt/`. Output will be saved in folder `gpt-4-output/`.
+Before running anything, be sure to adjust the following variables as needed. All prompts used for experiments are under folder `prompt/`. Output will be saved in folder `gpt-4-output/`.
 
 |     Variable              |             Description                           | Options                                               |
 |---------------------------| ------------------------------------------------- |------------------------------------------------------ |
