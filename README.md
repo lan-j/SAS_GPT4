@@ -20,7 +20,7 @@ The paper will appear at L@S 2024. If you found this script useful please cite o
 @inproceedings{jiang2024sasgpt4,
     author = {Jiang, Lan and Bosch, Nigel},
     title = {Short answer scoring with GPT-4},
-    booktitle = {L@S2024},
+    booktitle = {In Proceedings of the Eleventh ACM Conference on Learning @ Scale (L@S ’24)},
     year = {2024},
 }
 ```
